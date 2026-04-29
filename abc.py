@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("This is a sample Python file for restoration.") #c1
+print("This is a s")
